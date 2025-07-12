@@ -1,0 +1,7 @@
+# Ignore .out files
+*.out
+
+# Ignore .out files in any directory
+**/*.out
+# Ignore .exe files
+*.exe   
