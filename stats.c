@@ -9,17 +9,20 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c 
+ * @brief Impl file for statistics functions
+ * 
+ * This file contains the implementation of functions to calculate and print
+ * statistics such as minimum, maximum, mean, and median from an array of
+ * unsigned char values.
+ * 
+ * This file is part of a course project for learning embedded software
+ * development.
  *
- * <Add Extended Description Here>
- *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Aleksandr Bobyrev
+ * @date 12.07.2025
  *
  */
-
-
 
 #include <stdio.h>
 #include "stats.h"
