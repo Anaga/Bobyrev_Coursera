@@ -119,17 +119,5 @@ unsigned char find_minimum(unsigned char *array, unsigned int size);
  */
 void sort_array(unsigned char *array, unsigned int size);
 
-/**
- * @brief swap two elements
- *
- *  A function that swaps two elements in an array.
- *
- * @param a Pointer to the first element.
- * @param b Pointer to the second element.
- * 
- * @return void
- */
-void swap(unsigned char *a, unsigned char *b);
-
 
 #endif /* __STATS_H__ */

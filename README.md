@@ -7,7 +7,9 @@
 ### Software Essentials to use in conjunction with the course1, the Introductio
 ### to Embedded Software and Development Environments.
 
-### The repository is for ferst assigments:
+### The repository is for first assigments:
 ###      stats.h
 ###      stats.c
+
+
 
