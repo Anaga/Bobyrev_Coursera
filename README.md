@@ -7,9 +7,10 @@
 ### Software Essentials to use in conjunction with the course1, the Introductio
 ### to Embedded Software and Development Environments.
 
-### The repository is for first assigments:
-###      stats.h
-###      stats.c
+### The repository have the last assignment in a folder
+###      course1
+
+Go inside, and check the README.md file.
 
 
 
